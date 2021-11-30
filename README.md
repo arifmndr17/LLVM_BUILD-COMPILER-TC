@@ -1,5 +1,5 @@
 # LLVM_BUILD-COMPILER-TC
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/45afc949404f440e9398bd2c8dadadff)]
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/45afc949404f440e9398bd2c8dadadff)
 ## Secret Variable for CI
 * LLVM_NAME | Your desired Toolchain Name
 * TG_TOKEN | Your Telegram Bot Token
